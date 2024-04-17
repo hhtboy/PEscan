@@ -129,9 +129,10 @@
   <ItemGroup>
     <ClCompile Include="parser.cpp" />
     <ClCompile Include="pescan.cpp" />
+    <ClCompile Include="pestruct.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="parser.h" />
+    <ClInclude Include="pescan.h" />
     <ClInclude Include="pestruct.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
